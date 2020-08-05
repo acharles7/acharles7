@@ -1,8 +1,5 @@
 ### Hi there 👋 I am ***Charles***
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on open-source software
 - 🌱 I’m currently learning machine learning in agriculture
 - 💬 Ask me about: python, machine learning, data science
