@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on open-source software
 - 🌱 I’m currently learning machine learning in agriculture
 - 💬 Ask me about: python, machine learning, data science
-- 📫 How to reach me: charlespatel007@yahoo.com
 
 I'm a machine learning practitioner and computer programmer with an avid interest in python programming and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
 
