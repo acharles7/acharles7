@@ -19,7 +19,7 @@ I have hands on experience in Machine Learning, Recommendation system, Scripting
 <br/>
 
 ### 📕 Latest Blog Posts
-- [Underneath Numpy array & Python list](https://medium.com/@charlespatel/underneath-numpy-array-python-list-42a30e62f693)
+- [Underneath Numpy array & Python list](https://medium.com/datadriveninvestor/underneath-numpy-array-python-list-42a30e62f693)
 - [Relationship aka Correlation between Data](https://medium.com/datadriveninvestor/relationship-aka-correlation-between-features-e1fbc244694e)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=acharles7&show_icons=true&hide_border=true&include_all_commits=true" />
