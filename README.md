@@ -8,7 +8,7 @@ I'm a machine learning practitioner and computer programmer with an avid interes
 
 I have hands on experience in Machine Learning, Recommendation system, Scripting. Solid Programming expertise in python, object oriented analysis/methodologies.
 
-### 👥 Connect with me:
+### 👥 Connect with me
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/charlespatel)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/charlespatel/)
