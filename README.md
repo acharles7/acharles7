@@ -1,12 +1,10 @@
 ### Hi there 👋 I am ***Charles***
 
-- 🔭 I’m currently contributing to open-source software
-- 🌱 I’m currently learning machine learning in finance and agriculture
-- 💬 Ask me about: python, machine learning, data science
+- 💬 Ask me about: python, machine learning in finance and agriculture, data science, open-source
 
-I'm a machine learning practitioner and computer programmer with an avid interest in python programming and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
+I'm a machine learning practitioner and computer programmer with an avid interest in Python programming and traditional Machine Learning. As a core programmer, I love taking challenges and being part of the solution.
 
-I have hands on experience in Machine Learning, Recommendation system, Scripting. Solid Programming expertise in python, object oriented analysis/methodologies.
+I have hands-on experience in machine learning, recommendation systems, scripting, solid programming expertise in python
 
 ### 👥 Connect with me
 
