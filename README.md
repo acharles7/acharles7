@@ -17,6 +17,7 @@ I have hands-on experience in machine learning, recommendation systems, scriptin
 <br/>
 
 ### 📕 Latest Blog Posts
+- [Advance Python Development](https://medium.com/@charlespatel/advance-python-development-5e6914fbb4b2)
 - [Underneath Numpy array & Python list](https://medium.com/datadriveninvestor/underneath-numpy-array-python-list-42a30e62f693)
 - [Relationship aka Correlation between Data](https://medium.com/datadriveninvestor/relationship-aka-correlation-between-features-e1fbc244694e)
 
